@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1599028885470.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2601924015",
+    "id" : "4301E92B",
+    "lastKnownWriteTime" : 1573372588,
+    "last_content_update" : 1573372588,
+    "path" : "~/R Projects/Training/De Jong, Heller/DJH3_3.R",
+    "project_path" : "DJH3_3.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
